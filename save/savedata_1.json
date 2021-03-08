@@ -1,0 +1,9 @@
+{
+"Enable":true,
+"FileName":"savedata_1",
+"CurrentTeamData":[{"Status":{"after":[],"always":[],"before":[]},"act":2,"hp":5,"atk":2,"teamPos":1,"def":4,"shield":0},{"Status":{"after":[],"always":[],"before":[]},"act":3,"hp":11,"atk":6,"teamPos":1,"def":0,"shield":0},{"Status":{"after":[],"always":[],"before":[]},"act":3,"hp":10,"atk":7,"teamPos":1,"def":0,"shield":0},{"Status":{"after":[],"always":[],"before":[]},"act":3,"hp":12,"atk":2,"teamPos":1,"def":3,"shield":0}],
+"DefaultTeam":["hero1","hero2","hero3","hero4"],
+"CurrentTeam":["hero1","hero2","hero6","hero4"],
+"CurrentScene":1,
+"MapData":{"stepFromDoor":1,"passedRoom":0,"money":0,"sceneList":[{"name":1,"events":{"eventButton":["button_event"],"ranState":"0x08413c14854add6d","door":[],"ranSeed":1615211297,"eventImg":[],"isBattle":false}},{"name":2,"events":{"eventButton":["button_campfire"],"ranState":"0x3417c1addcf7e87f","door":[],"ranSeed":1615211298,"eventImg":["campfire"],"isBattle":false}},{"name":3,"events":{"eventButton":["button_campfire"],"ranState":"0x3417c1addcf7e87f","door":[],"ranSeed":1615211298,"eventImg":["campfire"],"isBattle":true}}],"dropItem":1}
+}
